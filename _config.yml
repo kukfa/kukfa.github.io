@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               David Kukfa
+tagline:             'Security student'
+description:         '3rd-year Computing Security student at RIT. Interests include application security, reverse engineering, and penetration testing.'
+url:                 https://kukfa.co
+baseurl:             ''
+gems:			[jekyll-paginate]
+paginate:            5
+
+# About/contact
+author:
+  name:              David Kukfa
+  url:               https://kukfa.co/
+  email:             dxk2652@rit.edu
+
+# Custom vars
+version:             1.0.0

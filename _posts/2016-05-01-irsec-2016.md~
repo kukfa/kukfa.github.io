@@ -1,0 +1,18 @@
+---
+layout: post
+title: IRSeC 2016
+---
+
+Just a few weeks after red-teaming at Lockdown v0, I had the opportunity to follow up with my second red team experience at IRSeC this weekend! IRSeC (Incident Response Security Competition) is an annual cyber defense competition hosted by RIT’s Competitive Cybersecurity Club. The competition is geared towards beginners, with a focus on the incident response process. Emphasis is placed on how teams react to an intrusion and their ability to identify and report malicious activity.
+
+Red/blue team interaction is crucial during IRSeC, and I was able internalize what I learned at Lockdown to improve as a red-teamer and facilitate a better learning environment overall. Talking things over with blue teams proved once again to be very helpful and important for learning. I picked up some new attacking and persistence techniques in preparation for the event as well.
+
+In reflection, there are some important points to note for future competitions:
+
+Having a wide variety of persistence mechanisms is important.
+When persisting on boxes during the competition, I wanted to use persistence mechanisms that teams would be able to discover due to the beginner nature of the competition. These included creating scheduled tasks, registry items, users, and services. However, some teams were more advanced than others, and were eventually able to detect and remove both the basic and advanced persistence mechanisms I used. It would have been advantageous to include several persistence techniques that are very difficult to discover in order to ensure access to teams after they think they’ve kicked me out.
+Get persistence accomplished right away.
+In hindsight, I would have benefited from having a more prepared method of persisting. When teams started to discover my more basic methods of persistence, I was still fighting to establish a foothold on several boxes well into the competition. At that point, I wanted to be focusing on taking down services, exfiltrating PII, and messing with teams a bit. By establishing a wide range of persistence early on, I would have been in a more comfortable position to focus on other red team objectives.
+Be sure to take the entire infrastructure into account.
+IRSeC’s network this year included several IP cameras that many red-teamers overlooked until later in the competition. These had really interesting attack vectors, and it would have been cool to get a foothold in them early on to pivot into the rest of the blue teams’ networks.
+Overall, IRSeC was an awesome time, and it was great to be able to use what I learned from my previous red team experience just a few weeks later. A huge shout out goes to everyone who helped organize the event and stayed up overnight to make it happen. Looking forward to next year!

@@ -1,0 +1,38 @@
+body {
+	font-family: arial, serif;
+	background-image: url("bg3.jpg");
+	background-position: 50% 45%;
+	background-repeat: no-repeat;
+}
+
+a:link {
+    color: #000000;
+}
+
+a:visited {
+    color: #000000;
+}
+
+.middleDiv {
+    position : absolute;    
+    width    : 500px;
+    height   : 300px;
+    left     : 50%;
+    top      : 50%;
+    margin-left : -250px;
+    margin-top  : -110px;
+}
+
+#generator {
+	font-size:36px;
+	font-weight:bold;
+	text-align:center;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#generator input {
+	font-size:20px;
+	font-weight:normal;
+	margin-top: 20px;
+}
