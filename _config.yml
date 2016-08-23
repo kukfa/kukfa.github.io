@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               David Kukfa
 tagline:             'Security student'
-description:         '3rd-year Computing Security student at RIT. Interests include application security, reverse engineering, and penetration testing.'
+description:         '4th-year Computing Security student at RIT. Interests include application security, reverse engineering, and penetration testing.'
 url:                 https://kukfa.co
 baseurl:             ''
 gems:			[jekyll-paginate]
