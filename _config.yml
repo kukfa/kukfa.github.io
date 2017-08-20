@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               David Kukfa
-tagline:             'Security student'
-description:         '4th-year Computing Security student at RIT. Interests include application security, reverse engineering, and penetration testing.'
+title:               Dave Kukfa
+tagline:             'Security bub'
+description:         'Interested in application security, reverse engineering, and penetration testing.'
 url:                 https://kukfa.co
 baseurl:             ''
 gems:			[jekyll-paginate]
@@ -14,9 +14,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              David Kukfa
+  name:              Dave Kukfa
   url:               https://kukfa.co/
-  email:             dxk2652@rit.edu
+  email:             davekukfa@gmail
 
 # Custom vars
 version:             1.0.0
