@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Dave Kukfa
 tagline:             'Security bub'
-description:         'Interested in application security, reverse engineering, and penetration testing.'
+description:         'Security engineer et al.'
 url:                 https://kukfa.co
 baseurl:             ''
 gems:			[jekyll-paginate]
