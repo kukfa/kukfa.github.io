@@ -5,8 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Dave Kukfa
-tagline:             'Security bub'
-description:         'Security engineer et al.'
+tagline:             'Security engineer etc.'
 url:                 https://kukfa.co
 baseurl:             ''
 gems:			[jekyll-paginate]
