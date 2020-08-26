@@ -4,7 +4,7 @@ title: Second Law of Thermodynamics (Law of Entropy)
 tag: systems thinking
 ---
 
-Described by Steven Pinker in _Enlightenment Now_:
+From _[Enlightenment Now](https://stevenpinker.com/publications/enlightenment-now-case-reason-science-humanism-and-progress)_:
 
 > The Second Law of Thermodynamics states that in an isolated system (one that is not taking in energy), entropy never decreases. (The First Law is that energy is conserved; the Third, that a temperature of absolute zero is unreachable.) Closed systems inexorably become less structured, less organized, less able to accomplish interesting and useful outcomes, until they slide into an equilibrium of gray, tepid, homogeneous monotony and stay there.
 
