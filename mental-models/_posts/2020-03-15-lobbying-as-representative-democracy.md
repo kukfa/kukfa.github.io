@@ -1,0 +1,19 @@
+---
+layout: post
+title: Lobbying as Representative Democracy
+tag: political science
+---
+
+From _[Interest Groups and Lobbying](https://www.taylorfrancis.com/books/9780429493652)_:
+
+> - Interest groups are collections of people with essentially the same self-interest, about which they feel so strongly that they collectively form an organization to promote and defend it through the political process.
+- The development of the political philosophy of the social contract underlying our civilization prioritizes individual self-interest and protects the pursuit of that self-interest through politics.
+
+> The First Amendment's last clause reads: "Congress shall make no law ... abridging ... the right of the people to freely assemble and petition government for a redress of grievances". It captures the two key parts of interest group politics: collective action (the right to freely assemble) and lobbying government to answer the demands of citizens (petition for redress of grievances). The idea of citizens with similar interests proactively or reactively demanding that their government protect their self-interest is the cornerstone of democratic government, and using intermediaries to press these demands is the very definition of representation.
+
+> Since American society is so heterogeneous with many groups organized, or at least with the potential to be organized, around a wide range of issues and beliefs, there is no way they can be represented by any political party. To win majorities, parties must assemble and represent many interests, but trying to represent everybody means they represent nobody well. US presidents and senators have the same problem. Even House members often represent too many competing interests in their districts to be effective advocates for them all. Private organizations speaking for distinct groups of people have no need to represent any majority.
+
+> This is the potential of interest groups--they can and do provide focused representation for small groups of people organized around narrow, well-defined interests that could probably not ever be priorities for political parties. The downside, though, is that there are so many private organizations representing group interests in national politics today that the relatively small number of public officials whose attention they compete for cannot possibly respond to them all. Nor do interest groups represent all factions of the public equally. Some have more resources than others with which they can make their constituent members' voices heard more loudly by lawmakers. And some potential constituent-members simply cannot get organized, or even realize that they had better be organized, if they want to avoid being hurt by the policies advanced by competing interest groups. What groups _do_ share with parties and constituent-based representation in government is a disregard for the public interest.
+
+
+> ... interest groups are considered legitimate because we believe the pursuit of self-interest is close to sacred. It probably could not be any other way in an economic system that assumes the best result for society comes when people compete with each other to satisfy their self-interest. As Jane Mansbridge observed, democratic politics in a free-market economy are usually adversarial, and this leaves no room for thinking about the common good. Indeed, there may be no common good or public interest in such a system. If we wished to eliminate interest groups and lobbying, as Madison understood, we would have to fundamentally rethink who we are and what rights and liberties we expect to enjoy in our political system. Barring such an unlikely change, it may be best to think more about how we can use interest groups and their adversarial impulse--which itself is just a reflection of our own adversarial nature--to achieve the greatest good for the greatest number of people.
