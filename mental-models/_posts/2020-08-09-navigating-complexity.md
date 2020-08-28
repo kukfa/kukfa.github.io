@@ -10,7 +10,7 @@ The general consensus is it depends on one's strengths, which is echoed by:
 
 ### Scott Page
 
-_From [The Knowledge Project](https://fs.blog/knowledge-project/scott-page/):_
+From [The Knowledge Project](https://fs.blog/knowledge-project/scott-page/):
 
 > One of the things I talk about in both _The Diversity Bonus_ and also in _The Model Thinker_ is that you can think of yourself as this toolbox and you've got some capacity to accumulate tools, mental models, ways of thinking. What you could decide to do is you could decide to go really deep. You could be the world's expert, or one of the world's experts, on random forest models or goals or the Lyapunov functions. You could be one of the world’s leading practitioners of signaling models in economics. Alternatively, what you could do is you could go deep on a handful of models, where there could be three or four things you're pretty good at. Or you could be someone who I think ... a lot of people are really successful ... by having just an awareness of a whole bunch of models. Having 20 models that you have at your disposal that you can think about. Then when you realize this one may be important, then you dig a little bit deeper.
 
@@ -28,7 +28,7 @@ with yourself ... is to think okay, what are my capacities? Am I someone who is 
 
 ### Atul Gawande
 
-_From [The Knowledge Project](https://fs.blog/knowledge-project/atul-gawande/):_
+From [The Knowledge Project](https://fs.blog/knowledge-project/atul-gawande/):
 
 > I majored in biology, but I also majored in political science, kind of looking for... there must be more to the world than just medicine. And I found it. I found it in lots and lots of different places. Some in science; I worked in a lab. Some—you know, I tried everything in college. I was in a band, I learned to play guitar, I wrote music reviews for the student newspaper. I joined Amnesty International. I worked on Gary Hart's very shortlived campaign for president as a volunteer. Then, when I got out of Stanford I went on to do a master's degree in politics and philosophy of economics at Oxford, out of hope that I could maybe do a graduate degree in political theory or something like that. I just found out I wasn't very good at those questions and a lot of the things that I tried I just wasn't really made for or cut out for. And I kept coming back to medicine as a place where I was familiar, I was comfortable. It wasn't for the best reasons, right? It was a place that I knew and I could thrive.
 
@@ -42,17 +42,17 @@ _From [The Knowledge Project](https://fs.blog/knowledge-project/atul-gawande/):_
 
 ### Charlie Munger
 
-_From the [2016 Daily Journal Annual General Meeting](https://www.penderfund.com/blog/question-time-with-charlie-munger-part-2/), on whether he is in favor of specialization or taking a synthesis/multi-disciplinary approach:_
+From the [2016 Daily Journal Annual General Meeting](https://www.penderfund.com/blog/question-time-with-charlie-munger-part-2/), on whether he is in favor of specialization or taking a synthesis/multi-disciplinary approach:
 
 > Saying one is in favor of synthesis is like saying one is in favor of reality. It is easy to say we want to be good at it, but the rewards system pays for extreme specialization. You are usually way better off being a deep expert [in one thing] than someone an inch deep in a lot of disciplines. It [synthesis] is helpful to some but not the best career advice for most people. The trouble is you make terrible mistakes everywhere else without it, so synthesis should be a second attack on the world after specialization. It is defensive, and it helps one to not be blindsided by the rest of world.
 
-_From the [2017 Daily Journal Annual General Meeting](http://latticeworkinvesting.com/2017/02/17/charlie-munger-full-transcript-of-daily-journal-annual-meeting-2017/)_:
+From the [2017 Daily Journal Annual General Meeting](http://latticeworkinvesting.com/2017/02/17/charlie-munger-full-transcript-of-daily-journal-annual-meeting-2017/):
 
 > I don't think operating over many disciplines as I do is a good idea for most people. I think it's fun, that's why I've done it. I'm better at it than most people would be. And I don't think I'm good at being the very best for handling differential equations. So it's in a wonderful path for me, but I think the correct path for everybody else is to specialize and get very good at something that society rewards and get very efficient at doing it. But even if you do that, I think you should spend 10 or 20% of your time into trying to know all the big ideas in all the other disciplines. Otherwise... I use the same phrase over and over again... otherwise you're like a one legged man in an ass-kicking contest. It's just not going to work very well. You have to know the big ideas in all the disciplines to be safe if you have a life lived outside a cave. But no, I think you don't want to neglect your business as a dentist to think great thoughts about Proust.
 
 ### Tyler Cowen
 
-_From [The Knowledge Project](https://fs.blog/knowledge-project/tyler-cowen/), on Munger's thoughts on specialization from the 2017 Daily Journal Annual General Meeting:_
+From [The Knowledge Project](https://fs.blog/knowledge-project/tyler-cowen/), on Munger's thoughts on specialization from the 2017 Daily Journal Annual General Meeting:
 
 > I mean maybe most people, but you know it's person by person and for some people it should be 50–50. Certainly at the higher levels I think generalists are important. If you look at CEOs several decades ago, most CEOs were people hired from within that sector and now a CEO is much more often hired across sectors. So someone who, you know, worked for an oil company would then be hired to run a manufacturing firm. So that's showing some kinds of knowledge are actually more general.
 
