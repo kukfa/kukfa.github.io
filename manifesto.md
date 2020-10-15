@@ -1,0 +1,14 @@
+---
+layout: page
+title: Manifesto
+---
+
+I started reading nonfiction in my first year out of college, in an effort to better understand the world and the forces that shape it. After starting a new tech job in the Bay Area, I started building [mental models]({% link mental-models/index.md %}) from my experiences at work, but also had a growing exposure to and affinity for social issues both local and worldwide. I found I was more motivated to work on problems with direct social impact, which in turn prompted me to dig deeper into their causes -- though I realized I didn’t know much about the world outside of tech, and wanted to broaden my worldview.
+
+Learning more about the world is rewarding in and of itself, but it’s more valuable when guided by a specific set of goals, due to the realities of infinite knowledge and finite time. Naturally, this led to questions about what the most pressing social issues are, how I could best contribute to them, and what I want my career to amount to. My answers to these questions are constantly developing as I continue to introspect on them and understand myself and the world, and my current thoughts are as follows.
+
+Projects like the [UN’s Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) and [80,000 Hours](https://80000hours.org/problem-profiles/) provide different perspectives on major issues affecting the world today. Of these issues, I’ve primarily focused on learning about climate change, though I recognize the importance and interconnected nature of other issues, and my focus may change as I learn more about my strengths and the different opportunities to leverage them.
+
+While these social issues are deeply rooted in the social sciences, I’ll contribute to their solutions from the perspective of a technologist (my background is in security and software engineering) and a practitioner (rather than an academic) for the foreseeable future. This helps define my approach (breadth over depth) for learning about these issues, and where I fit within the wide variety of ways to contribute; I want to apply my engineering skills to improve the efficiency and effectiveness of an organization working directly on a pressing social issue.
+
+At the current stage of my career, I’m focused on building my engineering skills and human capital, including developing my worldview. My goals in doing so are to reach an [“elementary academic understanding”](https://fs.blog/2015/09/munger-worldly-wisdom/) of economics, political science, psychology, sociology, philosophy, and history, in order to become a better thinker and problem solver, so I can ultimately narrow down how and where I can drive significant social impact as a technologist, and be more effective in that role once I’m doing it.
