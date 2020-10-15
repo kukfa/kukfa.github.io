@@ -92,9 +92,11 @@ In summary:
 
 > There is no other way forward.
 
-### Clean energy R&D
+### Clean technology R&D
 
-(technological "relief" solution to make carbon pricing less expensive)
+While technological solutions should not be relied upon to save us from the climate crisis, there are massive opportunities to reduce emissions by creating economies of scale for low-emissions equipment and energy sources. Once clean technologies are cheaper than their dirtier alternatives, this creates a (self-interested) economic incentive to lower costs by switching to clean technologies, ultimately reducing emissions and the cost of carbon in a carbon pricing scheme.
+
+_Enlightenment Now_ describes the opportunities in mass-produced nuclear power:
 
 > Still, nuclear power is expensive, mainly because it must clear crippling regulatory hurdles while its competitors have been given easy passage. Also, in the United States, nuclear power plants are now being built, after a lengthy hiatus, by private companies using idiosyncratic designs, so they have not climbed the engineer’s learning curve and settled on the best practices in design, fabrication, and construction. Sweden, France, and South Korea, in contrast, have built standardized reactors by the dozen and now enjoy cheap electricity with substantially lower carbon emissions.
 
@@ -105,6 +107,25 @@ In summary:
 > Breakthroughs in energy may come from startups founded by idealistic inventors, from the skunk works of energy companies, or from the vanity projects of tech billionaires, especially if they have a diversified portfolio of safe bets and crazy moonshots. But research and development will also need a boost from governments, because these global public goods are too great a risk with too little reward for private companies. Governments must play a role because, as Brand points out, “infrastructure is one of the things we hire governments to handle, especially energy infrastructure, which requires no end of legislation, bonds, rights of way, regulations, subsidies, research, and public-private contracts with detailed oversight.” This includes a regulatory environment that is suited to 21st-century challenges rather than to 1970s-era technophobia and nuclear dread.
 
 > Whoever does it, and whichever fuel they use, the success of deep decarbonization will hinge on technological progress. Why assume that the know-how of 2018 is the best the world can do? Decarbonization will need breakthroughs not just in nuclear power but on other technological frontiers: batteries to store the intermittent energy from renewables; Internet-like smart grids that distribute electricity from scattered sources to scattered users at scattered times; technologies that electrify and decarbonize industrial processes such as the production of cement, fertilizer, and steel; liquid biofuels for heavy trucks and planes that need dense, portable energy; and methods of capturing and storing CO2.
+
+_[The 100% Solution](https://www.solomongr.com/framework)_ provides a framework to reach these economies of scale for carbon-neutral technologies:
+
+> We must replace every process or piece of equipment that currently emits greenhouse gases with a process or piece of equipment that achieves the same function but does not emit greenhouse gases. In most cases, the new systems should function in people’s lives in similar ways to the old systems.
+
+> In order to fully roll out all new processes or pieces of equipment, most must become cheaper than current systems. We can achieve this through innovation projects, scaling up clean technologies until every carbon-neutral technology is the cheapest and obvious choice for families and companies across the globe.
+
+> Manufacturing scale-up is the easiest option to carry out and the most likely to produce significant cost reductions for most processes or pieces of equipment we need. Production subsidies and financing will be needed for certain technologies that can’t be made cheap enough outright, but they shouldn’t be relied on for everything, or countries offering those options would stop being able to afford them. Inventing new technologies (including minor changes to individual components/etc that make a product cheaper) can have dramatic benefits, but is the least certain option, so it can’t be the only option considered for any given process or type of equipment we need.
+
+> It will take time to deploy all the necessary infrastructure even after it becomes cheaper than fossil fuel systems, so to achieve global net-negative emissions by 2050, industrialized countries must make most clean systems affordable enough in the next 5-15 years. This speaks to the need for an immediate, massive investment to scale up the industries we need and position them to export equipment worldwide.
+
+> Five pillars of action are required to achieve a 100% solution globally:
+> 1. Deploy clean electricity generation.
+> 2. Electrify equipment that can be electrified.
+> 3. Create synthesized carbon-neutral fuels for equipment that can’t be electrified or isn’t electrified by 2050.
+> 4. Change various processes to eliminate non-energy emissions (ex: CO2 is currently a byproduct of chemical reactions in cement manufacturing) –   especially in agriculture (ex: using crop rotation, cover crops, and enforcement against deforestation to lower emissions from soil and deforestation).
+> 5. Make up for the remaining emissions and get to negative emissions using sequestration.
+
+> These pillars are a framework, criteria with which we can judge whether specific policy proposals (recent examples include the Evergreen Action Plan, the House Select Committee on the Climate Crisis’ report, the Biden-Sanders unity task force report, and the new Biden campaign climate plan) would fully solve the problem, or in what areas they have gaps. The 100% Solution book gets into more specifics of what types of equipment or policy can or can’t contribute to a full solution within each pillar, but the 100% Solution framework does not lay out a proposed package of specific policies.
 
 ## Inadequate solutions
 
