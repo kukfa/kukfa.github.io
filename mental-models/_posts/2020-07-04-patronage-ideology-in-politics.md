@@ -18,4 +18,4 @@ He expands on this by [describing how patronage shapes ideology itself](https://
 
 > Another corollary of this is that ideologies need a strong institutional basis in order to spread and in order to take hold politically. A lot of people think that if they can just find the true ideology, and if they can communicate it to people clearly, then it will naturally spread throughout society. It would be great if this were the case, but in fact, an ideology needs to have a strong institutional basis in order to spread and in order to make its way into the core institutions of a society.
 
-Some of the motivations behind this system of patronage are described in the [Interest Group Advocacy]({% post_url mental-models/2020-03-15-interest-group-advocacy %}) and [Role of Public Opinion in Policy Making]({% post_url mental-models/2020-03-15-public-opinion-in-policy-making %}) models.
+Some examples of this system of patronage are described in the [Interest Group Advocacy]({% post_url mental-models/2020-03-15-interest-group-advocacy %}) and [Role of Public Opinion in Policy Making]({% post_url mental-models/2020-03-15-public-opinion-in-policy-making %}) models.
