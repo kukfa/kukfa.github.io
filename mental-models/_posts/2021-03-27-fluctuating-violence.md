@@ -4,6 +4,8 @@ title: Violence has historically fluctuated
 tag: history
 ---
 
+Were ancient societies exceptionally peaceful or violent? As with most things, it depends; no sweeping conclusion can be made.
+
 From _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
 
 > Finally, there’s the thorny question of the role of war in forager societies. Some scholars imagine ancient hunter-gatherer societies as peaceful paradises, and argue that war and violence began only with the Agricultural Revolution, when people started to accumulate private property. Other scholars maintain that the world of the ancient foragers was exceptionally cruel and violent. Both schools of thought are castles in the air, connected to the ground by the thin strings of meagre archaeological remains and anthropological observations of present-day foragers.

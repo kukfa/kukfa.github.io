@@ -4,6 +4,8 @@ title: There has never been a natural way of life
 tag: history
 ---
 
+Debates about which human social or psychological behaviors are 'natural' due to their similarities with behaviors in ancient societies are missing the point. These behaviors result from our cultural environment, which is endlessly complex and constantly changing - thus preventing a 'natural' way of life.
+
 From _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
 
 > To understand our nature, history and psychology, we must get inside the heads of our hunter-gatherer ancestors. For nearly the entire history of our species, Sapiens lived as foragers. The past 200 years, during which ever increasing numbers of Sapiens have obtained their daily bread as urban labourers and office workers, and the preceding 10,000 years, during which most Sapiens lived as farmers and herders, are the blink of an eye compared to the tens of thousands of years during which our ancestors hunted and gathered.
