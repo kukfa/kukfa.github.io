@@ -4,7 +4,7 @@ title: The Cognitive Revolution
 tag: history
 ---
 
-In _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, Yuval Noah Harari defines the Cognitive Revolution, a period between 70,000 and 30,000 years ago where humans developed new cognitive abilities which enabled new ways of thinking and communicating. This was the turning point where historical narratives (i.e. of human culture and collaboration) replaced biological theories of human development, which enabled us to rapidly progress past previous evolutionary barriers and overcome other species.
+In _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, Yuval Noah Harari describes the Cognitive Revolution, a period between 70,000 and 30,000 years ago where humans developed new cognitive abilities which enabled new ways of thinking and communicating. This was the turning point where historical narratives (i.e. of human culture and collaboration) replaced biological theories of human development, which enabled us to rapidly progress past previous evolutionary barriers and overcome other species.
 
 > In the previous chapter we saw that although Sapiens had already populated East Africa 150,000 years ago, they began to overrun the rest of planet Earth and drive the other human species to extinction only about 70,000 years ago. In the intervening millennia, even though these archaic Sapiens looked just like us and their brains were as big as ours, they did not enjoy any marked advantage over other human species, did not produce particularly sophisticated tools, and did not accomplish any other special feats.
 
