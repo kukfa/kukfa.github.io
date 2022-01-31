@@ -4,7 +4,7 @@ title: The Neolithic Revolution
 tag: history
 ---
 
-The Neolithic (First Agricultural) Revolution marked a pivot from hunter-gatherer to farmer lifestyles, creating powerful implications for the rest of human history. It enabled the development of modern society, including (delayed) benefits of population growth, cities, specialization, trade, and new forms of government; though it came with the immediate costs of disease, violence, poor nutrition, and grueling labor for the vast majority of the population.
+The Neolithic (First Agricultural) Revolution marked a pivot from hunter-gatherer to farmer lifestyles ~10,000 years ago, creating powerful implications for the rest of human history. It enabled the development of modern society, including (delayed) benefits of population growth, cities, specialization, trade, and new forms of government; though it came with the immediate costs of disease, violence, poor nutrition, and grueling labor for the vast majority of the population, and opened the door for the long-term cost of [increased inequalities](https://www.princeton.edu/~cboix/bones.pdf).
 
 In _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, Yuval Noah Harari presents an initially dismal view of the Agricultural Revolution, characterized by the suffering of farmers without improvements in quality of life. This is consistent with [Jared Diamond's views](https://www.discovermagazine.com/planet-earth/the-worst-mistake-in-the-history-of-the-human-race) as well.
 
