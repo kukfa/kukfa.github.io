@@ -7,7 +7,7 @@ title: Defusing a Binary Bomb with Binary Ninja
 
 This post goes over the steps I took to solve Phase 1 of the lab using the Binary Ninja API. The code is available on [GitHub](https://github.com/kukfa/binaryninja-test). For reference, here's how the phase looks in Binary Ninja's GUI:
 
-[![Phase 1 in Binary Ninja GUI](/resources/binaryninja/phase1.PNG)](/resources/binaryninja/phase1.PNG)
+[![Phase 1 in Binary Ninja GUI]({% link /resources/binaryninja/phase1.PNG %})]({% link /resources/binaryninja/phase1.PNG %})
 
 Starting out, the binary is loaded and analyzed:
 (The sleep function is due to Binary Ninja's threaded analysis, which currently does not have a way to alert when the analysis is completed)

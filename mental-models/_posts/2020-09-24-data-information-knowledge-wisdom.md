@@ -24,7 +24,7 @@ Russell Ackoff’s 1989 paper [From Data to Wisdom](http://www-public.imtbs-tsp.
 
 The DIKW model is summarized in the following flowchart (from [Wikipedia](https://en.wikipedia.org/wiki/DIKW_pyramid)):
 
-![DIKW flowchart]({{ site.static_files | where: "name", "dikw_flowchart.png" | map: "path" | first }})
+![DIKW flowchart]({% link /mental-models/dikw_flowchart.png %})
 
 [T & E meaning tacit and explicit]
 
@@ -32,7 +32,7 @@ The DIKW model is summarized in the following flowchart (from [Wikipedia](https:
 
 > Personally I contend that the sequence is a bit less involved than described by Ackoff. The following diagram represents the transitions from data, to information, to knowledge, and finally to wisdom, and it is understanding that support [sic] the transition from each stage to the next. Understanding is not a separate level of its own.
 
-![DIKW graph]({{ site.static_files | where: "name", "dikw_graph.gif" | map: "path" | first }})
+![DIKW graph]({% link /mental-models/dikw_graph.gif %})
 
 The DIKW model has its limitations; it isn't universally applicable, and can break down when analyzing the semantic definitions of each step (e.g. drawing the line between data and information). Though I find the model is still a useful concept, which illustrates:
 

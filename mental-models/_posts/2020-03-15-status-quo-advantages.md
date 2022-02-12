@@ -12,7 +12,7 @@ Some examples from _[Interest Groups and Lobbying](https://www.taylorfrancis.com
 
 ***
 
-![Bargaining Between Competing Interest Groups]({{ site.static_files | where: "name", "figure-9.2.PNG" | map: "path" | first }})
+![Bargaining Between Competing Interest Groups]({% link /mental-models/figure-9.2.PNG %})
 
 Context:
 - When the government leases land for oil drilling, it receives a royalty

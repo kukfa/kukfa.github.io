@@ -43,11 +43,11 @@ The code defines the DLL entry point function, which executes when processes loa
 
 Once we have the DLL built, open the target program (the MMO, in my case) and find it in Process Explorer. We’ll need the process ID (PID) of the target for the DLL injector.
 
-[![Finding the PID using Process Explorer](/resources/dllinjection/1.PNG)](/resources/dllinjection/1.PNG)
+[![Finding the PID using Process Explorer]({% link /resources/dllinjection/1.PNG %})]({% link /resources/dllinjection/1.PNG %})
 
 Next, open the DLL injector and inject the DLL into the process. Using NCLoader:
 
-[![Injecting using NCLoader](/resources/dllinjection/2.PNG)](/resources/dllinjection/2.PNG)
+[![Injecting using NCLoader]({% link /resources/dllinjection/2.PNG %})]({% link /resources/dllinjection/2.PNG %})
 
 Notice that we can see the DLL loaded in the target process (the [purple](https://www.microsoft.com/security/sir/strategy/default.aspx#!malwarecleaning_explorer) DLL in Process Explorer), and the DLL_PROCESS_ATTACH case triggered its message box when the process loaded the DLL.
 
