@@ -59,7 +59,3 @@ Changing or dismantling these beliefs requires an even more powerful belief:
 > In order to dismantle Peugeot, for example, we need to imagine something more powerful, such as the French legal system. In order to dismantle the French legal system we need to imagine something even more powerful, such as the French state. And if we would like to dismantle that too, we will have to imagine something yet more powerful.
 
 > There is no way out of the imagined order. When we break down our prison walls and run towards freedom, we are in fact running into the more spacious exercise yard of a bigger prison.
-
-
-
-
