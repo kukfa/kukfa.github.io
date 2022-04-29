@@ -4,7 +4,7 @@ title: Web Application Cheat Sheet
 menu: no
 ---
 
-The aim of this page is to provide a quick overview of web application security issues. Most sections are divided into 4 main components: describing/background, finding, exploiting, and fixing. Many examples came from [The Web Application Hacker’s Handbook](http://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/1118026470) and [OWASP](https://www.owasp.org/index.php/Main_Page); I recommend checking both out! My goal is to continually update this page as my understanding of web security evolves. Feel free to share any questions, feedback, or suggestions.
+This page has notes I took about basic web security issues from reading [The Web Application Hacker’s Handbook](http://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/1118026470) in 2015. The descriptions of each class of vulnerability are still relevant, but be warned many of the specific techniques are starting to age.
 
 XSS
 ===
