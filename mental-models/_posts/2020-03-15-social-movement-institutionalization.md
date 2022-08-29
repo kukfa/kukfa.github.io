@@ -4,6 +4,12 @@ title: Institutionalization of Social Movements
 tag: political science
 ---
 
+## Summary
+
+> If a social movement succeeds in cracking open the political system, it must then learn to play by the rules of the institution it has worked to crack.
+
+## Context
+
 From _[Interest Groups and Lobbying](https://www.taylorfrancis.com/books/9780429493652)_:
 
 > If a social movement succeeds in cracking open the political system, it must then learn to play by the rules of the institution it has worked to crack. Movements rearrange some of the pieces of the power structure that supported policies at the root of their grievance, forcing back older, more entrenched interests by making them accept the legitimacy of the movement's demands. They add their interest to the array of interests deemed worthy of government support, expanding the range of policy problems receiving government redress. This success is significant, but victory comes with costs, which may not be immediately apparent to the organizers of the social movement, who are now looking at careers as lobbyists. They must play by the rules and norms of the game they have struggled to join. The movement changed the beneficiaries of public policy and the values it enshrines, but not the way it is made. Activists-turned-lobbyists are now expected to work with lawmakers through the regular, institutionalized procedures of the political system. Bills will be introduced, other members of Congress will be lobbied, information packets developed, email campaigns launched—all with a united message that benefits their new legislative allies as much as their members. Other interest groups must be recruited as allies or bargained with as opponents. Because operating on the inside is much cheaper than staging protests, the groups staff are usually happy to oblige.
