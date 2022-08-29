@@ -4,7 +4,11 @@ title: There has never been a natural way of life
 tag: history
 ---
 
+## Summary
+
 Debates about which human social or psychological behaviors are 'natural' due to their similarities with behaviors in ancient societies are missing the point. These behaviors result from our cultural environment, which is endlessly complex and constantly changing - thus preventing a 'natural' way of life.
+
+## Context
 
 From _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
 
