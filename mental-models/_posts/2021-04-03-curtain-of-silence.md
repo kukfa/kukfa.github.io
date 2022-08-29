@@ -4,7 +4,11 @@ title: The Curtain of Silence
 tag: history
 ---
 
+## Summary
+
 Just because we don't know what happened, doesn't mean what did happen was unimportant.
+
+## Context
 
 From _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
 
