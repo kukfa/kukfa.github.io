@@ -4,7 +4,13 @@ title: Imagined Order
 tag: history
 ---
 
-Large-scale human societies depend on imagined orders (i.e. shared beliefs) to function, as they enable lots of people to cooperate effectively. Quotes from _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
+## Summary
+
+Large-scale human societies depend on imagined orders (i.e. shared beliefs) to function, as they enable lots of people to cooperate effectively. These imagined orders can be maintained by coercion, but the most effective and efficient way is to make people truly believe in them, by institutionally embedding them into peoples' lives. Changing or dismantling one of these beliefs requires an even more powerful belief to take its place.
+
+## Context
+
+All quotes are from _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_.
 
 The population growth from the Agricultural Revolution required more depth and complexity of imagined orders:
 
