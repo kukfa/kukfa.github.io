@@ -4,7 +4,13 @@ title: There is no justice in history
 tag: history
 ---
 
-Social hierarchies enable large-scale societies to efficiently cooperate and interact, but are also used to maintain oppressive power structures and create lasting socioeconomic injustices. No specific form of social hierarchy is natural, because each is rooted in [imagined orders]({% post_url mental-models/2021-04-17-imagined-order %}) created by humans and is thus a [cultural choice]({% post_url mental-models/2021-03-13-no-natural-way-of-life %}) -- but _some_ form of oppressive social hierarchy has existed in every complex society. Though [not all forms of hierarchy are necessarily oppressive](https://press.princeton.edu/ideas/in-defense-of-hierarchy), e.g. among family members, citizens, states, humans and animals, and humans and machines. Quotes below are from _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
+## Summary
+
+Social hierarchies enable large-scale societies to efficiently cooperate and interact, but are also used to maintain oppressive power structures and create lasting socioeconomic injustices. No specific form of social hierarchy is natural, because each is rooted in [imagined orders]({% post_url mental-models/2021-04-17-imagined-order %}) created by humans and is thus a [cultural choice]({% post_url mental-models/2021-03-13-no-natural-way-of-life %}) -- but _some_ form of oppressive social hierarchy has existed in every complex society. Though [not all forms of hierarchy are necessarily oppressive](https://press.princeton.edu/ideas/in-defense-of-hierarchy), e.g. among family members, citizens, states, humans and animals, and humans and machines.
+
+## Context
+
+From _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
 
 > Understanding human history in the millennia following the Agricultural Revolution boils down to a single question: how did humans organise themselves in mass-cooperation networks, when they lacked the biological instincts necessary to sustain such networks? The short answer is that humans created imagined orders and devised scripts [writing]. These two inventions filled the gaps left by our biological inheritance.
 
@@ -16,7 +22,7 @@ Social hierarchies enable large-scale societies to efficiently cooperate and int
 
 > Most people claim that their social hierarchy is natural and just, while those of other societies are based on false and ridiculous criteria. Modern Westerners are taught to scoff at the idea of racial hierarchy. They are shocked by laws prohibiting blacks to live in white neighbourhoods, or to study in white schools, or to be treated in white hospitals. But the hierarchy of rich and poor – which mandates that rich people live in separate and more luxurious neighbourhoods, study in separate and more prestigious schools, and receive medical treatment in separate and better-equipped facilities – seems perfectly sensible to many Americans and Europeans. Yet it’s a proven fact that most rich people are rich for the simple reason that they were born into a rich family, while most poor people will remain poor throughout their lives simply because they were born into a poor family.
 
-On the origin of hierarchies:
+### On the origin of hierarchies
 
 > In most cases the hierarchy originated as the result of a set of accidental historical circumstances and was then perpetuated and refined over many generations as different groups developed vested interests in it.
 
@@ -24,13 +30,13 @@ On the origin of hierarchies:
 
 > The rulers argued that the caste system reflected an eternal cosmic reality rather than a chance historical development. Concepts of purity and impurity were essential elements in Hindu religion, and they were harnessed to buttress the social pyramid. Pious Hindus were taught that contact with members of a different caste could pollute not only them personally, but society as a whole, and should therefore be abhorred. Such ideas are hardly unique to Hindus. Throughout history, and in almost all societies, concepts of pollution and purity have played a leading role in enforcing social and political divisions and have been exploited by numerous ruling classes to maintain their privileges. ... If you want to keep any human group isolated ... the best way to do it is convince everyone that these people are a source of pollution.
 
-On their role:
+### On their role
 
 > Hierarchies serve an important function. They enable complete strangers to know how to treat one another without wasting the time and energy needed to become personally acquainted.
 
 > Unfortunately, complex human societies seem to require imagined hierarchies and unjust discrimination. Of course not all hierarchies are morally identical, and some societies suffered from more extreme types of discrimination than others, yet scholars know of no large society that has been able to dispense with discrimination altogether. Time and again people have created order in their societies by classifying the population into imagined categories, such as superiors, commoners and slaves; whites and blacks; patricians and plebeians; Brahmins and Shudras; or rich and poor. These categories have regulated relations between millions of humans by making some people legally, politically or socially superior to others.
 
-On their implications:
+### On their implications
 
 > Of course, differences in natural abilities also play a role in the formation of social distinctions. But such diversities of aptitudes and character are usually mediated through imagined hierarchies. This happens in two important ways. First and foremost, most abilities have to be nurtured and developed. Even if somebody is born with a particular talent, that talent will usually remain latent if it is not fostered, honed and exercised. Not all people get the same chance to cultivate and refine their abilities. Whether or not they have such an opportunity will usually depend on their place within their society’s imagined hierarchy.
 
