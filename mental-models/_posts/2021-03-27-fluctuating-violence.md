@@ -4,7 +4,11 @@ title: Violence has historically fluctuated
 tag: history
 ---
 
+## Summary
+
 Were ancient societies exceptionally peaceful or violent? As with most things, it depends; no sweeping conclusion can be made.
+
+## Context
 
 From _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
 
@@ -19,5 +23,3 @@ From _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_:
 > The depressing findings from the Danube Valley are supported by a string of equally depressing findings from other areas. At Jabl Sahaba in Sudan, a 12,000-year-old cemetery containing fifty-nine skeletons was discovered. Arrowheads and spear points were found embedded in or lying near the bones of twenty-four skeletons, 40 per cent of the find. The skeleton of one woman revealed twelve injuries. In Ofnet Cave in Bavaria, archaeologists discovered the remains of thirty-eight foragers, mainly women and children, who had been thrown into two burial pits. Half the skeletons, including those of children and babies, bore clear signs of damage by human weapons such as clubs and knives. The few skeletons belonging to mature males bore the worst marks of violence. In all probability, an entire forager band was massacred at Ofnet.
 
 > Which better represents the world of the ancient foragers: the peaceful skeletons from Israel and Portugal, or the abattoirs of Jabl Sahaba and Ofnet? The answer is neither. Just as foragers exhibited a wide array of religions and social structures, so, too, did they probably demonstrate a variety of violence rates. While some areas and some periods of time may have enjoyed peace and tranquillity, others were riven by ferocious conflicts.
-
-
