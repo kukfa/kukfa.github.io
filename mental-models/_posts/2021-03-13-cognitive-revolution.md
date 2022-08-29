@@ -4,7 +4,13 @@ title: The Cognitive Revolution
 tag: history
 ---
 
+## Summary
+
 In _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, Yuval Noah Harari describes the Cognitive Revolution, a period between 70,000 and 30,000 years ago where humans developed new cognitive abilities which enabled new ways of thinking and communicating. This was the turning point where historical narratives (i.e. of human culture and collaboration) replaced biological theories of human development, which enabled us to rapidly progress past previous evolutionary barriers and overcome other species.
+
+Does this mean humans have essentially maintained the same level of intelligence for the past 30,000 years, or even gotten smarter? Unclear; [studies show an average decrease of ~10% in the size of the human brain](https://mindmatters.ai/2021/10/researchers-still-puzzled-why-did-human-brains-shrink/) over the past 12,000 years, with different theories describing its implications on human intelligence. Though despite these evolutionary changes, humans’ cultural and cooperative abilities have continued to progress, which has enabled our explosion of knowledge and societal progress.
+
+## Context
 
 > In the previous chapter we saw that although Sapiens had already populated East Africa 150,000 years ago, they began to overrun the rest of planet Earth and drive the other human species to extinction only about 70,000 years ago. In the intervening millennia, even though these archaic Sapiens looked just like us and their brains were as big as ours, they did not enjoy any marked advantage over other human species, did not produce particularly sophisticated tools, and did not accomplish any other special feats.
 
@@ -34,5 +40,3 @@ In _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, Yuval Noah Harari desc
 1. Biology sets the basic parameters for the behaviour and capacities of Homo sapiens. The whole of history takes place within the bounds of this biological arena.
 2. However, this arena is extraordinarily large, allowing Sapiens to play an astounding variety of games. Thanks to their ability to invent fiction, Sapiens create more and more complex games, which each generation develops and elaborates even further.
 3. Consequently, in order to understand how Sapiens behave, we must describe the historical evolution of their actions. Referring only to our biological constraints would be like a radio sports-caster who, attending the World Cup football championships, offers his listeners a detailed description of the playing field rather than an account of what the players are doing.
-
-Does this mean humans have essentially maintained the same level of intelligence for the past 30,000 years, or even gotten smarter? Unclear; [studies show an average decrease of ~10% in the size of the human brain](https://mindmatters.ai/2021/10/researchers-still-puzzled-why-did-human-brains-shrink/) over the past 12,000 years, with different theories describing its implications on human intelligence. Though despite these evolutionary changes, humans’ cultural and cooperative abilities have continued to progress, which has enabled our explosion of knowledge and societal progress.
