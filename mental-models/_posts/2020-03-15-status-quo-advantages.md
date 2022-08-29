@@ -4,13 +4,19 @@ title: Advantage of the Status Quo
 tag: political science
 ---
 
+## Summary
+
 Status quo policies and incumbent politicians often have a systemic advantage in the political arena.
+
+## Context
 
 Some examples from _[Interest Groups and Lobbying](https://www.taylorfrancis.com/books/9780429493652)_:
 
+### Supreme Court
+
 > In sum, when public interest groups are the challengers of the status quo, there is little evidence that they are getting anywhere at the Supreme Court. Of course when it comes to the consumer protection and environmental laws that these groups convinced Congress to enact in the 1960s and 70s, they are the ones defending the status quo, and they have the advantage. Basically the judiciary is a conservative institution in that judges and justices defer to the legislative and executive branches when they can, so challenging any policy status quo in the judiciary is an uphill battle. The payoff is enormous when successful, but it is a significant gamble of time and resources. ... Petitioner groups win far more than respondent groups, but remember that in an appellate court it is likely that the petitioner group was originally the respondent and is actually defending the status quo! It is a common lesson in this book: status quo policies are hard to overthrow.
 
-***
+### Negotiations between interest groups
 
 ![Bargaining Between Competing Interest Groups]({% link /mental-models/figure-9.2.PNG %})
 
@@ -26,6 +32,6 @@ Context:
 
 In interest group negotiations like this, the status quo provides an advantage to whichever side it benefits most, since it bends the range of acceptable compromises towards the side of the status quo holder.
 
-***
+### Campaign contributions
 
 > It takes money to raise money in politics. Raising money early is crucial to elected officials, especially challengers, though incumbents use early money to discourage potential challengers (Jacobson 1992). PAC leaders understand this, and some, like EMILY's List, specifically contribute early to help favored candidates raise more money down the line (Box-Steffensmeier, Radcliffe, and Bartels 2005). Most PACs, though, are conservative about contributing early because they want to back winners. It is another reason why they favor incumbents (who nearly always win) and are often unwilling to take chances on challengers unless challengers show early on that they can win, usually through aggressive fundraising. For candidates challenging incumbents, this PAC mind-set makes raising money extremely difficult. More ideological, nonconnected PACs and super-PACs, however, are more likely to take risks on challengers who embrace their ideological positions. Non-ideological PACs, however, are only likely to give money early when a partisan wave is building that might change the balance of power, as happened in 1980 (Eismeier and Pollock 1986), 1994, and 2010.
