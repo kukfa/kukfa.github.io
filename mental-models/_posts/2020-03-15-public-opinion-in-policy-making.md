@@ -4,9 +4,13 @@ title: Role of Public Opinion in Policy Making
 tag: political science
 ---
 
-Overview from _[Encyclopedia Britannica](https://www.britannica.com/topic/public-opinion/Public-opinion-and-government)_:
+## Summary
+
+From _[Encyclopedia Britannica](https://www.britannica.com/topic/public-opinion/Public-opinion-and-government)_:
 
 > Political scientists have been less concerned with what part public opinion should play in a democratic polity and have given more attention to establishing what part it does play in actuality. From the examination of numerous histories of policy formation, it is clear that no sweeping generalization can be made that will hold in all cases. The role of public opinion varies from issue to issue, just as public opinion asserts itself differently from one democracy to another. Perhaps the safest generalization that can be made is that public opinion does not influence the details of most government policies but it does set limits within which policy makers must operate. That is, public officials will usually seek to satisfy a widespread demand—or at least take it into account in their deliberations—and they will usually try to avoid decisions that they believe will be widely unpopular.
+
+## Context
 
 The extent of public opinion's influence within the US government is described in _[American Government 2e](https://openstax.org/books/american-government-2e/pages/6-4-the-effects-of-public-opinion)_:
 
