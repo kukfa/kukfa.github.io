@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There is no justice in history
+title: There Is No Justice in History
 tag: history
 ---
 

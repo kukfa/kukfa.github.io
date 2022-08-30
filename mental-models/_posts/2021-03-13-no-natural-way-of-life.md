@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There has never been a natural way of life
+title: There Has Never Been a Natural Way of Life
 tag: history
 ---
 

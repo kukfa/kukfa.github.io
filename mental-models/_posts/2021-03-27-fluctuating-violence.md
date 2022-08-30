@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Violence has historically fluctuated
+title: Violence Has Historically Fluctuated
 tag: history
 ---
 
