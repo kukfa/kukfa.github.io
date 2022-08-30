@@ -153,3 +153,5 @@ It depends on how you view freedom and how you view equality. Are personal liber
 But are those restrictions significant? That depends on your stance on egalitarianism. If you value equality as a fundamental goal of justice, you would be willing to make (relatively insignificant) sacrifices of these freedoms (i.e. would not want to take actions that oppress others) so others can enjoy a good life.
 
 Quoting Anderson, "moderate egalitarianism of the social democratic type has proved compatible with democracy, extensive civil liberties, and substantial if constrained market freedoms. ... the ideal of a free society of equals is not an oxymoron: not only is relational equality not fundamentally opposed to freedom, in certain senses equality is needed for freedom. Inequality upsets liberty."
+
+Additionally, [Giebler and Merkel have empirically concluded](http://hdl.handle.net/10419/171367) both freedom and equality can be maximized at the same time.
