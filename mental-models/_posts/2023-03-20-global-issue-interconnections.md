@@ -207,7 +207,6 @@ An edge (arrow) from A → B indicates either A's causality to B, or A's importa
         {from: 'migration', to: 'nation_building', label: 'settled populations'},
         {from: 'media', to: 'nation_building', label: 'portrayal'},
         {from: 'econ_dev', to: 'decolonization'},
-        {from: 'decolonization', to: 'health', label: 'maybe include?'},
         
         // Democracy
         {from: 'governance', to: 'democracy'},
