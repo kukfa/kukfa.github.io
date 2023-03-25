@@ -511,7 +511,7 @@ The experts' philosophies of prioritization were also [categorized](https://www.
 
 ### SDG interactions (qualitative)
 
-From [A Guide to SDG Interactions: from Science to Implementation](https://council.science/wp-content/uploads/2017/05/SDGs-Guide-to-Interactions.pdf)):
+From [A Guide to SDG Interactions: from Science to Implementation](https://council.science/wp-content/uploads/2017/05/SDGs-Guide-to-Interactions.pdf):
 
 > Although governments have stressed the integrated, indivisible and interlinked nature of the SDGs ..., important interactions and interdependencies are generally not explicit in the description of the goals or their associated targets. ... This report ... [explores] the important interlinkages within and between these goals and associated targets to support a more strategic and integrated implementation. Specifically, the report presents a framework for characterising the range of positive and negative interactions between the various SDGs, ... and tests this approach by applying it to an initial set of four SDGs: SDG2, SDG3, SDG7 and SDG14. This selection presents a mixture of key SDGs aimed at human well-being, ecosystem services and natural resources, but does not imply any prioritisation.
 

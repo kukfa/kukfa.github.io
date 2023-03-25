@@ -87,23 +87,17 @@ Notes from [Elizabeth Anderson](https://www.google.com/books/edition/The_Oxford_
 
 ## Relationships between these types
 
-<script src="//unpkg.com/mermaid/dist/mermaid.min.js"
-  async
-  onload="initMermaid()">
-</script>
-
-<script>
-function initMermaid() {
-  var config = {
-    startOnLoad: true,
-    flowchart:{
-      useMaxWidth: true,
-      htmlLabels: true
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/+esm';
+  mermaid.initialize(
+    {
+      startOnLoad: true,
+      flowchart:{
+        useMaxWidth: true,
+        htmlLabels: true
+      }
     }
-  };
-  mermaid.initialize(config);
-  window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-}
+  );
 </script>
 
 <div class="mermaid">
