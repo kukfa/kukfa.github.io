@@ -9,14 +9,14 @@ tagline:             'Security engineer etc.'
 url:                 https://kukfa.co
 baseurl:             ''
 gems: [jekyll-paginate]
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-feed]
 paginate:            5
 
 # About/contact
 author:
   name:              Dave Kukfa
   url:               https://kukfa.co/
-  email:             davekukfa@gmail
+  email:             dave(lastname)@gmail.com
 
 # Custom vars
 version:             1.0.0
