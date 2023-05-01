@@ -9,7 +9,7 @@ tagline:             'Security engineer etc.'
 url:                 https://kukfa.co
 baseurl:             ''
 gems: [jekyll-paginate]
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate]
 paginate:            5
 
 # About/contact
@@ -20,5 +20,3 @@ author:
 
 # Custom vars
 version:             1.0.0
-feed:
-  path: /feed.xml
