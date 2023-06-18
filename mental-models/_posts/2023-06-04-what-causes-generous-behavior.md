@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Causes Generous Behavior
+title: What Causes Generous Behavior?
 tag: psychology
 ---
 
